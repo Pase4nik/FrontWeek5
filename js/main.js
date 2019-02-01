@@ -77,7 +77,7 @@ function task3() {
 function task4() {
 	var day_now = new Date();
 	var milliNow = day_now.getTime();
-	var months = ["January", "February", "March", "April", "May", "June","July","August","September","Octomber","November","December"];
+	var months = ["January", "February", "March", "April", "May", "June","July","August","September","October","November","December"];
 	var days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday","Saturday", "Sunday"];
 	
 
